@@ -18,8 +18,8 @@
         </p>
         <hr>
         <h3>Contacts</h3>
-        <a href="https://github.com/TJTHANAPAT">Github</a>
-        <a href="https://fb.com/thanapat.teerarattanyu/">Facebook</a>
+        <a href="https://github.com/TJTHANAPAT" target="_blank">Github</a>
+        <a href="https://fb.com/thanapat.teerarattanyu/" target="_blank">Facebook</a>
         <hr>
         <h3>Joke</h3>
         <p>
@@ -35,7 +35,7 @@
         
         <footer>
             <p>
-                <i>This page is part of studying ITF Academic Year 2020, Faculty of Information Technology, KMITL.</i><br>Created by TJTHANAPAT
+                <i>This page is part of studying ITF, Academic Year 2020, Faculty of Information Technology, KMITL.</i><br>Created by TJTHANAPAT
             </p>
         </footer>
     </div>
