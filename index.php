@@ -35,7 +35,7 @@
         
         <footer>
             <p>
-                <i>This page is part of studying ITF, Academic Year 2020, Faculty of Information Technology, KMITL.</i><br>Created by TJTHANAPAT
+                <i>This page is part of studying ITF, Academic Year of 2020, Faculty of Information Technology, KMITL.</i><br>Created by TJTHANAPAT
             </p>
         </footer>
     </div>
