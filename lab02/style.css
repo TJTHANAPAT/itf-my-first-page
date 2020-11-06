@@ -1,0 +1,36 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+body {
+  height: 100%;
+  background-color: #161616;
+}
+
+.cell {
+  padding: 15px;
+}
+.cell-body {
+  height: 100%;
+  padding: 25px 20px;
+  background-color: #222222;
+  color: #ff7f16;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.layout-height {
+  padding: 10px;
+  min-height: calc(100vh - 5rem) !important;
+}
+
+.height-100 {
+  height: 100% !important;
+}
+
+footer {
+  margin: 10px 0;
+  padding: 15px;
+  color: #4b4b4b;
+}
