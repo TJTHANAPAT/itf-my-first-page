@@ -3,11 +3,11 @@
 My First Page
 https://itf-tjthanapat.azurewebsites.net/
 
-Respondsive Layout
+Responsive Layout
 https://itf-tjthanapat.azurewebsites.net/lab02_1/layout.html
 
 Card with Bootstrap
 https://itf-tjthanapat.azurewebsites.net/lab02_2/card.html
 
 
-Part of studying ITF Academic Year 2020, Faculty of Information Technology, KMITL.
+Part of studying ITF, Academic Year of 2020, Faculty of Information Technology, KMITL.
