@@ -3,42 +3,54 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TJTHANAPAT</title>
+    <title>ITF My First Page</title>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap" rel="stylesheet">
-    <link href="style.css" rel="stylesheet">
+    <style>
+        :root {
+            --orange:  #ff7f16;
+        }
+        body {
+            background-color: #161616;
+            font-family: "Roboto", sans-serif;
+            font-weight: 300;
+        }
+        .wrapper {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 50px auto;
+            text-align: center;
+        }
+        h1 {
+            color: var(--orange);
+            font-weight: 500;
+        }
+        a {
+            border: 2px solid var(--orange);
+            padding: 12px 25px;
+            margin: 10px;
+            min-width: 150px;
+            color: #ffffff;
+            text-decoration: none;
+        }
+        a:hover{
+            background-color: var(--orange);
+        }
+        p {
+            color: #aaaaaa;
+            margin-top: 50px;
+        }
+    </style>
 </head>
 <body>
-    <div class="container">
-        <h1 class="color-orange">TJTHANAPAT</h1>
-        <h3>Introduction</h3>
-        <p>
-            Hi! My name is Thanapat Teerarattanyu, or you can call me 'Jay'. 
-            I am a freshmen at Faculty of Information Technology, KMITL. 
-            I am major in Data Science and Business Analytics.
-        </p>
-        <hr>
-        <h3>Contacts</h3>
-        <a href="https://github.com/TJTHANAPAT" target="_blank">Github</a>
-        <a href="https://fb.com/thanapat.teerarattanyu/" target="_blank">Facebook</a>
-        <hr>
-        <h3>Joke</h3>
-        <p>
-            Thai people live in the country which its monarch spends most of his time outside his country.
-        </p>
-        <hr>
-        <h3>My Passions</h3>
-        
-        <img src="https://i.pinimg.com/originals/82/46/9a/82469a43ab1a74e750d5d6e9723e1eb7.jpg" style="width: 100px;">
-        <img src="https://cdn.pixabay.com/photo/2016/09/16/09/20/books-1673578_1280.png" style="width: 100px;">
-
-        
-        
-        <footer>
-            <p>
-                <i>This page is part of studying ITF, Academic Year of 2020, Faculty of Information Technology, KMITL.</i><br>Created by TJTHANAPAT
-            </p>
-        </footer>
+    <div class="wrapper">
+        <h1>ITF My First Page</h1>
+        <a href="./my-first-page/my-first-page.html">My First Page</a>
+        <a href="./layout/layout.html">Layout</a>
+        <a href="./card/card.html">Card</a>
+        <p>Created by TJTHANAPAT<br>Part of studying ITF, Academic Year of 2020, Faculty of Information Technology, KMITL.</p>
     </div>
+
     
 </body>
 </html>
